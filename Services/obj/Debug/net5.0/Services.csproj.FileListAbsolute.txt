@@ -1,0 +1,15 @@
+D:\projects\WrapperApi\Services\bin\Debug\net5.0\Services.deps.json
+D:\projects\WrapperApi\Services\bin\Debug\net5.0\Services.dll
+D:\projects\WrapperApi\Services\bin\Debug\net5.0\Services.pdb
+D:\projects\WrapperApi\Services\bin\Debug\net5.0\WrapperApi.exe
+D:\projects\WrapperApi\Services\bin\Debug\net5.0\WrapperApi.pdb
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\Services.dll
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\ref\Services.dll
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\Services.pdb
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+D:\projects\WrapperApi\Services\obj\Debug\net5.0\refint\Services.dll

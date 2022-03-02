@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{51366388-1430-4BDD-8573-A97398DC0128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EArchive", "EArchive\EArchive.csproj", "{FA0D9450-D434-4618-B60D-59A600E4A62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51366388-1430-4BDD-8573-A97398DC0128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51366388-1430-4BDD-8573-A97398DC0128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51366388-1430-4BDD-8573-A97398DC0128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51366388-1430-4BDD-8573-A97398DC0128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0D9450-D434-4618-B60D-59A600E4A62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0D9450-D434-4618-B60D-59A600E4A62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0D9450-D434-4618-B60D-59A600E4A62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0D9450-D434-4618-B60D-59A600E4A62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
